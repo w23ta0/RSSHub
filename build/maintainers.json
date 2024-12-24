@@ -27,7 +27,7 @@
   "/163/music/artist/:id": [
     "metowolf"
   ],
-  "/163/music/djradio/:id": [
+  "/163/music/djradio/:id/:info?": [
     "magic-akari"
   ],
   "/163/music/playlist/:id": [
@@ -395,6 +395,9 @@
   "/ali213/news/:category?": [
     "nczitzk"
   ],
+  "/ali213/zl/:category?": [
+    "nczitzk"
+  ],
   "/alicesoft/information/:category?/:game?": [
     "keocheung"
   ],
@@ -457,6 +460,9 @@
   ],
   "/anquanke/:category/:fulltext?": [
     "qwertyuiop6"
+  ],
+  "/anthropic/news": [
+    "etShaw-zh"
   ],
   "/apache/apisix/blog": [
     "aneasystone"
@@ -1523,7 +1529,7 @@
   "/coomer/posts": [
     "nczitzk"
   ],
-  "/copernicium/:category": [
+  "/copernicium/:category?": [
     "dzx-dzx"
   ],
   "/copymanga/comic/:id/:chapterCnt?": [
@@ -2057,6 +2063,9 @@
   ],
   "/dykszx/news/:newsType?": [
     "zytomorrow"
+  ],
+  "/dytt/": [
+    "junfengP"
   ],
   "/e-hentai/:what?/:id?/:needTorrents?/:needImages?": [],
   "/eagle/blog/:cate?/:language?": [
@@ -2787,6 +2796,9 @@
     "Fatpandac"
   ],
   "/gov/gz/:channel/:category": [],
+  "/gov/hainan/iitb/tzgg": [
+    "p3psi-boo"
+  ],
   "/gov/hebei/czt/xwdt/:category?": [
     "nczitzk"
   ],
@@ -3294,6 +3306,9 @@
   "/hnu/careers": [
     "ningyougan"
   ],
+  "/home-assistant/hacs/repositories": [
+    "DIYgod"
+  ],
   "/hongkong/chp/:category?/:language?": [
     "nczitzk"
   ],
@@ -3676,6 +3691,9 @@
   "/iqnew/latest": [
     "nczitzk"
   ],
+  "/iresearch/chart/:category?": [
+    "nczitzk"
+  ],
   "/iresearch/report": [
     "brilon",
     "Fatpandac"
@@ -3842,6 +3860,12 @@
   "/jike/user/:id": [
     "DIYgod",
     "prnake"
+  ],
+  "/jimmyspa/books/:language": [
+    "FYLSen"
+  ],
+  "/jimmyspa/news/:language": [
+    "FYLSen"
   ],
   "/jin10/:important?": [
     "laampui"
@@ -4514,6 +4538,9 @@
   "/mohw/clarification": [
     "nczitzk"
   ],
+  "/moodysmismicrosite/report/:industry?": [
+    "FYLSen"
+  ],
   "/mox/:category?": [
     "nczitzk"
   ],
@@ -5044,6 +5071,9 @@
     "HenryQW",
     "pseudoyu",
     "dzx-dzx"
+  ],
+  "/obsidian/plugins": [
+    "DIYgod"
   ],
   "/obsidian/publish/:id": [
     "Xy2002"
